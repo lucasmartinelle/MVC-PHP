@@ -17,7 +17,7 @@ Change `AllowOverride None` to `AllowOverride All` line 172 on `/etc/apache2/apa
 
 On `/etc/apache2/sites-enabled/000-default.conf` change `DocumentRoot /var/www/html/` by `DocumentRoot /var/www/html/MVC-PHP` on line 12
 
-finally, don't forget to reload apache by executing : `systemctl reload apache2`
+finally, don't forget to reload apache by executing : `systemctl reload apache2`
 
 ## Create the database :
 
@@ -36,7 +36,7 @@ in order to use PDO.
 
 ## Documentation :
 
-Documentation is available [here](void).
+Documentation is available [here](https://github.com/lucasmartinelle/MVC-PHP/blob/master/documentation/documentation.md).
 
 
 
