@@ -7,9 +7,9 @@
 
     // make sure to enable PDO drivers and download php-mysql extensions
     define('DB_HOST', '127.0.0.1'); // host MYSQL
-    define('DB_USERNAME', 'root'); // username MYSQL
-    define('DB_PASSWORD', ''); // password MYSQL
-    define('DB_DATABASE', ''); // Databse MYSQL
+    define('DB_USERNAME', 'MVC'); // username MYSQL
+    define('DB_PASSWORD', 'vVsVNx3XLhjyzYSK'); // password MYSQL
+    define('DB_DATABASE', 'MVC'); // Databse MYSQL
 
     // private and site key of grecaptcha v3
     // https://developers.google.com/recaptcha/docs/v3
